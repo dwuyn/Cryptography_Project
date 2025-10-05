@@ -1,1 +1,1 @@
-# Capstone Project — Cloud API‑Based Network Application Security for Small Company Services
+# Cloud API‑Based Network Application Security for Small Company Services
